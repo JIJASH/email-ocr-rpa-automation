@@ -34,7 +34,7 @@ def extract_details(msg):
   else:
     print(f'No body content found')
   for part in msg.walk():
-          if part.get_filename():  # Check if the part has a filename (attachment)
+          if part.get_filename():  
               filename = part.get_filename()
               file_path = os.path.join(attachment_dir, filename)
               with open(file_path, "wb") as f:
@@ -52,14 +52,14 @@ def check_for_attachments():
     while True:
           try:
               client.idle()  # Start IDLE mode
-              responses = client.idle_check(timeout=300)  # Wait for new email
+              responses = client.idle_check(timeout=300)  
               client.idle_done()
               if responses:
                 messages = client.search('UNSEEN')
                 if messages:
                   print("New email recieved! ")
                   for msg_id in messages:
-                    raw_email = client.fetch(msg_id, ['RFC822'])[msg_id][b'RFC822']  # fetches the raw email data in the RFC822 format
+                    raw_email = client.fetch(msg_id, ['RFC822'])[msg_id][b'RFC822']  
                     processed_mail = message_from_bytes(raw_email)
                   # print(processed_mail)
                     extract_details(processed_mail)
