@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mail-watcher-47",
+  "private_key_id": "49ce629e4ae7614e7a87c0e4527d306e8e43df4e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDL7TxsgEWYNPYk\n5nGnThP/82iyOeBpjeUQ9A6fP6NZCQRn+qCNxkx6pC/VMArsdwJmAWXKCL4x4FM3\nyWl4BDoQB9gnmSVl25z5Je+I13swsFXNA1p8MgSoFrHFRU4ssXEdLJyKX20CblyJ\nzE/5Tlkncgz2qymsg4+hIX/1XQo5tqvpUt4X/ORKuxRi4UoCO6UE57WTKqmFLTM9\n9xm0vsg6JNfNR3QOmVrNuuj0wS8NJi0eUABxuYP40T49ZmJJf1zVX4Z6KrZTCb5Q\njBcpZfKJhQuR+RUrF0fqxQ4UBbF79oRVzX2WHGffaCEsHT3L3bO31+2AhhtpkCu2\nLMHJnPk9AgMBAAECggEABIwQV4WvXOrRZ5aRMjSA0v7lIWmTohw9NK48epCQs+Df\nmEdJDTWUFFKqPmFeh6dKW7vsPnUIyKlChxvr83Z5/6GCewo51euaXx6EGNO1Nitj\nE7nfaqWINQyh1M7sJKhQPWD2nJ9EGanG+8udJ5H3qvQqwH/7OJLhFlazjmUPX/oI\ni6vi8jh3B6gjFr+ExK/0vepGQPWcZ1fbOyKwyhuOILMeO23J0ZJ9XJ10sTW7IFOa\nX+Mn2AEPKz9AjnQBEbFWYqzfeeQcMnIpjpOA/Weu5BE9Fd2exv2yM6KNOGeJCBLz\n0aKEZUrOiSWaDUwRFAKU+EO9/LbLPdBQUI8+Rp8CgQKBgQD5HoLYjPwsLwIqEjuc\nEykWFbuFnKsddR9j1ejSAFxLmN3F0VJr09a7w0SDNU7hO6Z8DaBqcBSqFtcHC+gD\n9Dp1Ha+9yNqQGuKVmL8C/yaqwQ76FZltwm7foxsUWgz+AgC0l4Iw8Wvvi9ZvPvUF\nEK+xx15kUDkMBuDm3ztbLZYlywKBgQDRjyzCmsFvNgdiGgAoholum0HhYbvN/2yo\nk2XibRVdhQe5eskigIuvFLaitiVl+8Pj1zEI1vmM+3rzZBTgI1ROuPwFLANnaBcK\nsNduojALzCz9jh5fl/2v/QVjQJzjMcmvLF3dBu5l4csPyJTiwvKB6GiOtvAauWtk\nc/vh2Ew8FwKBgGK1pEMKGiGnvsPM1bHSJcWKdvNKUMMrVXTJnacYXXnW6Ikpl+8B\n0WQ0y0DyLn8wk5c0DwwdvRJoWmuAXD601zTwvmIE5BWVkZKVI5qcX0XpmXWeeVz0\nXdpfVquJwvwi7wSfxAaAorQYRK9v0sZfBj77MHuvDeumDhds/Kf0ODphAoGAbdYr\nUbynUlDxQbv7BUKu2ehKeYUuWGReYWUQa8NdBW1qhQ8USR8zF4s1xsbNh0yUeeEa\ndFWo6voMkXGNd4VM9Q4EGfndtt9Z5GKYKAaeRDC6DBPnW5dgglON9V2yXWqFGWmZ\nsPWnEoNsWVN6pfgj/27/Dn5YDsnMvhQEm3UxT/UCgYEA68tA7DhkKvjqJsBCTB3N\noIRYy7J4pg3WkuDJVmbvwj2l9/MBq1Kb/FZ0UCgRuY4/+uU1y7KIfgZdNE6m9Vmn\nYvmB2Mp6CbAtu92fzSni5UPE5S5Mo3BHH1YYGtH96q1ukI6Pj8MwGAYgkLOIquX/\nTgFBdaOc09VENh8UYS1rpPk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "email-watcher@mail-watcher-47.iam.gserviceaccount.com",
+  "client_id": "104405539822638507495",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/email-watcher%40mail-watcher-47.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
